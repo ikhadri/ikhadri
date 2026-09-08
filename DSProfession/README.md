@@ -7,6 +7,7 @@ This folder contains activities from DATA 130 class
 -Career Exploration
 
 -github
+
 -Data Science Ethics
 
 -Data Science in the News
